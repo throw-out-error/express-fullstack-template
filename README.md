@@ -1,6 +1,6 @@
 # Full Stack Express Template
 
-A typescript-based webapp template using Express, MongoDB and Monk.
+A typescript-based webapp template using Express, MongoDB and Monk. This template also includes bootstrap and jquery.
 
 ## Installation
 
