@@ -12,7 +12,7 @@
         "dotenv": "^8.2.0",
         "ejs": "^3.1.2",
         "express": "^3.4.4",
-        "monk": "0.7.1",
+        "monk": "7.3.0",
         "typescript": "^3.8.3"
     },
     "scripts": {
