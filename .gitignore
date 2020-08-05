@@ -1,4 +1,12 @@
-node_modules
+# Dependencies
+node_modules/
+# We are using pnpm, so remove other package-manager lock files.
+yarn.lock
+package-lock.json
+
+# Output
+dist/
+
+# Misc
 .DS_Store
-dist
 .env
