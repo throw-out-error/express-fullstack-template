@@ -1,0 +1,4 @@
+# Netlify deploy configuration
+[build]
+publish = "build"
+command = "yarn run build"
