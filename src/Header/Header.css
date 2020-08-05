@@ -7,3 +7,9 @@ header {
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+header a {
+  color: white;
+  text-decoration: none;
+  text-shadow: 4px 4px 2px black;
+}
